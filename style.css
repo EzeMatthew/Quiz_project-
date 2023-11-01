@@ -1,0 +1,56 @@
+body {
+    background-image: url('Group\ 7.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#question-area {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+#question {
+    color: #333;
+}
+
+#options {
+    list-style: none;
+    padding: 0;
+    color: orange;
+}
+#options:hover {
+    color: white;
+}
+
+li {
+    background-color: black;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: #aaa;
+}
+
+#result {
+    font-weight: bold;
+    color: green;
+}
+
+#score {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
