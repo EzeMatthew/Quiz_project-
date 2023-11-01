@@ -10,7 +10,7 @@ const questions = [
         answer: "iphone 12"
     },
     {
-        text: "Nigeria was made up how many state?",
+        text: "Nigeria was made up of how many states?",
         options: ["10 states", "40 states", "36 states", "100 states"],
         answer: "36 states"
     },
